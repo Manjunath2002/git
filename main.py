@@ -10,4 +10,5 @@ if(num==s):
     print("it is palindrome number")
 else:
     print("it is not palindrome number")
+print("code is completed")
   
